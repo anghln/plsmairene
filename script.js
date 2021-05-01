@@ -87,9 +87,11 @@ vcari.addEventListener('click', () => {
         '0049527678',
         '0022240248'
     ];
-    for (i=0; i<lulus.length; i++) {
-        if (nomor.value==lulus[i]) {
-            kode = 'l';
+    if (kode == 'k') {
+        for (i=0; i<lulus.length; i++) {
+            if (nomor.value==lulus[i]) {
+                kode = 'l';
+            }
         }
     }
     switch (kode) {
