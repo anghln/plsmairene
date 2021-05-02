@@ -2,6 +2,7 @@
 @media all and (max-width: 670px) {
   .header-left {
     font-size: 14px;
+    text-align: center;
   }
   .con-title h1 {
     font-size: 20pt;
