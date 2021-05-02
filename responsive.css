@@ -13,7 +13,10 @@
     font-size: 16pt;
     width: 100%;
   }
+  .cari {
+    font-size: 16pt;
+  }
   .bottom-title {
-    font-size: 12px;
+    font-size: 11px;
   }
 }
