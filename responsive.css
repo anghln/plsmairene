@@ -1,0 +1,6 @@
+/* For Smartphones */
+@media all and (max-width: 670px) {
+  .header-left {
+    font-size: 16px;
+  }
+}
