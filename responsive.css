@@ -3,4 +3,10 @@
   .header-left {
     font-size: 16px;
   }
+  .con-title h1 {
+    font-size: 30pt;
+  }
+  .con-title p {
+    font-size: 14pt;
+  }
 }
