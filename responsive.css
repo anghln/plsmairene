@@ -1,5 +1,8 @@
 /* For Smartphones */
 @media all and (max-width: 670px) {
+  header {
+    height: 50px;
+  }
   .header-left {
     font-size: 14px;
     text-align: center;
