@@ -114,7 +114,7 @@ main {
 
 .cari {
     font-size: 30pt;
-    background-color:#fffc40;
+    background-color:rgba(255, 249, 72, 0.8);
     border-radius: 10pt;
     color: #222222;
 }
