@@ -3,6 +3,7 @@
   .header-left {
     font-size: 14px;
     text-align: center;
+    width: 80%;
   }
   .con-title h1 {
     font-size: 20pt;
@@ -15,7 +16,7 @@
     width: 100%;
   }
   .cari {
-    font-size: 16pt;
+    font-size: 14pt;
   }
   .bottom-title {
     font-size: 11px;
