@@ -8,5 +8,6 @@ body {
 @media all and (max-width: 670px) {
     body {
         font-size: 14px;
+        width: 100%;
     }
 }
