@@ -36,7 +36,8 @@ vcari.addEventListener('click', () => {
         '0067624312',
         '0075776103',
         '0065909027',
-        '0041682165'
+        '0041682165',
+        '0066476191'
     ];
     for (i=0; i<tdkl.length; i++) {
         if (nomor.value==tdkl[i]) {
@@ -122,7 +123,11 @@ vcari.addEventListener('click', () => {
         '0074928440',
         '0076502271',
         '0069405830',
-        '0066568306'
+        '0066568306',
+        '0062773463',
+        '0064492274',
+        '0063559210',
+        '0063732570'
     ];
     if (kode == 'k') {
         for (i=0; i<lulus.length; i++) {
@@ -139,8 +144,6 @@ vcari.addEventListener('click', () => {
         case 't':
             window.location.replace("tidak.html");
             break;
-        case 'k':
-            window.location.replace("htpps://google.com")
         default:
             return;
     }
